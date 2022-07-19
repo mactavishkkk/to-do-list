@@ -6,7 +6,7 @@
 
 ## OBS!
 
-Não se esqueça de instalar as dependências com `npm install` 
+Não se esqueça de possuir o MongoDB instalado em sua máquina e também instalar as dependências com `npm install` 
 e iniciar o servidor com `npm run dev`
 
 ### Tecnologias
